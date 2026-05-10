@@ -67,3 +67,4 @@ Dashboard Screenshots
 Project Documentation
 <img width="878" height="545" alt="image" src="https://github.com/user-attachments/assets/1ad1ef87-509d-46eb-85e5-a020017746a7" />
 <img width="888" height="504" alt="image" src="https://github.com/user-attachments/assets/a21a9d74-89bb-443e-803c-3053f0dfd5b9" />
+<img width="883" height="512" alt="image" src="https://github.com/user-attachments/assets/37093bf0-6794-4e2f-8d6b-ad8dc054d2c2" />
